@@ -14,7 +14,7 @@
   <project name="meta-intel-aero-base" remote="intel-aero" revision="master"/>
   <project name="meta-intel-aero"      remote="intel-aero" revision="master"/>
 
-  <project name="meta-intel-librealsense" remote="intel-librealsense" revision="master"/>
+  <project name="meta-intel-realsense" remote="intel-librealsense" revision="master"/>
 </manifest>
 
 <!--
