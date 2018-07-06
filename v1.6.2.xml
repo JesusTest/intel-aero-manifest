@@ -4,7 +4,7 @@
   <remote fetch="http://git.yoctoproject.org/git/" name="yocto"/>
   <remote fetch="git://git.openembedded.org/" name="oe"/>
   <remote fetch="git://github.com/intel-aero/" name="intel-aero"/>
-  <remote fetch="git://github.com/IntelRealSense/" name="intel-realsense"/>
+  <remote fetch="git://github.com/IntelRealSense/" name="intel-librealsense"/>
 
   <project name="poky"       remote="yocto" revision="pyro"/>
   <project name="meta-virtualization" remote="yocto" revision="pyro"/>
